@@ -1,0 +1,851 @@
+{
+"search_metadata":
+{
+"id":
+"680d369b2ea5121b5e5e6ce9",
+"status":
+"Success",
+"json_endpoint":
+"https://serpapi.com/searches/aa61529425bd104b/680d369b2ea5121b5e5e6ce9.json",
+"created_at":
+"2025-04-26 19:40:11 UTC",
+"processed_at":
+"2025-04-26 19:40:11 UTC",
+"google_url":
+"https://www.google.com/search?q=central+austin+schooling+ratings&oq=central+austin+schooling+ratings&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+"raw_html_file":
+"https://serpapi.com/searches/aa61529425bd104b/680d369b2ea5121b5e5e6ce9.html",
+"total_time_taken":
+1.43
+},
+"search_parameters":
+{
+"engine":
+"google",
+"q":
+"central austin schooling ratings",
+"location_requested":
+"Austin, Texas, United States",
+"location_used":
+"Austin,Texas,United States",
+"google_domain":
+"google.com",
+"hl":
+"en",
+"gl":
+"us",
+"device":
+"desktop"
+},
+"search_information":
+{
+"query_displayed":
+"central austin schooling ratings",
+"total_results":
+33300000,
+"time_taken_displayed":
+0.38,
+"organic_results_state":
+"Some results for exact spelling but showing fixed spelling",
+"spelling_fix":
+"central austin school ratings",
+"showing_results_for":
+"central austin school ratings"
+},
+"local_map":
+{
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&tbm=lcl&q=central+austin+school+ratings&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQtgN6BAgtEAM",
+"image":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/14407cc8a8fb6235a6231c2d5070cdea.png",
+"gps_coordinates":
+{
+"latitude":
+30.25372921,
+"longitude":
+-97.71995544
+}
+},
+"local_results":
+{
+"places":
+[
+{
+"position":
+1,
+"rating":
+4.7,
+"reviews":
+17,
+"reviews_original":
+"(17)",
+"lsig":
+"AB86z5UsZD3241k4P8BUJ_l3TF5W",
+"links":
+{
+"website":
+"https://ciscentraltexas.org/",
+"directions":
+"https://www.google.com/maps/dir//Communities+In+Schools+of+Central+Texas,+2521+E+St+Elmo+Rd,+Austin,+TX+78744/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b48b73be7945:0x6412476d612eaa99?sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ48ADegQIJhAA&hl=en&gl=us"
+},
+"place_id":
+"7210904488481041049",
+"place_id_search":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&ludocid=7210904488481041049&q=central+austin+schooling+ratings",
+"gps_coordinates":
+{
+"latitude":
+30.207422,
+"longitude":
+-97.74299
+},
+"title":
+"Communities In Schools of Central Texas",
+"type":
+"Non-profit organization",
+"phone":
+"(512) 462-1771",
+"address":
+"2521 E St Elmo Rd",
+"hours":
+"Closed ⋅ Opens 8 AM Mon"
+},
+{
+"position":
+2,
+"rating":
+4.7,
+"reviews":
+12,
+"reviews_original":
+"(12)",
+"lsig":
+"AB86z5XMbGXhj_eHojK8hH8suawb",
+"links":
+{
+"website":
+"http://www.staustinschool.org/",
+"directions":
+"https://www.google.com/maps/dir//St.+Austin+Catholic+School,+2026+Guadalupe+St,+Austin,+TX+78705/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b53e09eab4f7:0x32eafa70bf4f5338?sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ48ADegQIKBAA&hl=en&gl=us"
+},
+"place_id":
+"3669020208599618360",
+"place_id_search":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&ludocid=3669020208599618360&q=central+austin+schooling+ratings",
+"gps_coordinates":
+{
+"latitude":
+30.283527,
+"longitude":
+-97.742256
+},
+"title":
+"St. Austin Catholic School",
+"type":
+"Catholic school",
+"phone":
+"(512) 477-3751",
+"address":
+"2026 Guadalupe St",
+"hours":
+"Closed ⋅ Opens 7:30 AM Mon"
+},
+{
+"position":
+3,
+"rating":
+4.2,
+"reviews":
+13,
+"reviews_original":
+"(13)",
+"lsig":
+"AB86z5V7x-q5bcR8Pe9FmsZ5fZe4",
+"links":
+{
+"website":
+"http://alc.austinschools.org/",
+"directions":
+"https://www.google.com/maps/dir//Alternative+Learning+Center,+4900+Gonzales+St,+Austin,+TX+78702/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b5c5aaaaaaab:0x2a8b5276eb2805d6?sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ48ADegQIJxAA&hl=en&gl=us"
+},
+"place_id":
+"3065634642060641750",
+"place_id_search":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&ludocid=3065634642060641750&q=central+austin+schooling+ratings",
+"gps_coordinates":
+{
+"latitude":
+30.255674,
+"longitude":
+-97.69715
+},
+"title":
+"Alternative Learning Center",
+"type":
+"Learning center",
+"phone":
+"(512) 414-2554",
+"address":
+"4900 Gonzales St",
+"hours":
+"Closed ⋅ Opens 8 AM Mon"
+}
+],
+"more_locations_link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&tbm=lcl&q=central+austin+school+ratings&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQjGp6BAgvEAE"
+},
+"knowledge_graph":
+{
+"entity_type":
+"related_questions"
+},
+"related_questions":
+[
+{
+"question":
+"What is the #1 school district in Austin?",
+"snippet":
+"Eanes ISD. Eanes ISD is renowned for its strong academic programs, consistently high test scores, and a wide array of extracurricular activities. It offers a supportive environment that nurtures students' academic and personal growth.",
+"title":
+"Eanes ISD",
+"link":
+"https://www.movetoaustin.org/blog/best-school-districts-in-the-austin/#:~:text=Austin%20School%20District-,Eanes%20ISD,students'%20academic%20and%20personal%20growth.",
+"displayed_link":
+"https://www.movetoaustin.org › blog › best-school-distri...",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBi2ptRezEVl8EYaFDXd06LglDIyVEgoRRxTZrMVhsg&s",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa69d1b75aac53d14b9527dac1fbef1cf12a4be95f6e832dc44.png",
+"next_page_token":
+"eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgc2Nob29sIGRpc3RyaWN0IGluIEF1c3Rpbj8iLCJsayI6IkdpaDNhR0YwSUdseklIUm9aU0FqTVNCelkyaHZiMndnWkdsemRISnBZM1FnYVc0Z1lYVnpkR2x1IiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgc2Nob29sIGRpc3RyaWN0IGluIEF1c3Rpbj8iLCJsayI6IkdpaDNhR0YwSUdseklIUm9aU0FqTVNCelkyaHZiMndnWkdsemRISnBZM1FnYVc0Z1lYVnpkR2x1IiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9"
+},
+{
+"question":
+"What is the lowest ranked school in Texas?",
+"snippet":
+"Pinkston High, the lowest-ranked school in Texas, had a graduation rate of 35 percent. “Obviously, it's a concern,” says district spokesman Jon Dahlander.",
+"title":
+"Small High Schools Do Better in Texas Rankings",
+"date":
+"Apr 27, 2010",
+"link":
+"https://www.texastribune.org/2010/04/27/small-high-schools-do-better-in-texas-rankings/#:~:text=Pinkston%20High%2C%20the%20lowest%2Dranked,says%20district%20spokesman%20Jon%20Dahlander.",
+"displayed_link":
+"https://www.texastribune.org › 2010/04/27 › small-high-...",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa69d1b75aac53d14b9bbca41446fec84f1a7543d61e24c96d4.png",
+"next_page_token":
+"eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbG93ZXN0IHJhbmtlZCBzY2hvb2wgaW4gVGV4YXM/IiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCc2IzZGxjM1FnY21GdWEyVmtJSE5qYUc5dmJDQnBiaUIwWlhoaGN3IiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbG93ZXN0IHJhbmtlZCBzY2hvb2wgaW4gVGV4YXM%2FIiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCc2IzZGxjM1FnY21GdWEyVmtJSE5qYUc5dmJDQnBiaUIwWlhoaGN3IiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9"
+},
+{
+"question":
+"Are Austin Texas public schools good?",
+"snippet":
+"Twenty-four Austin ISD schools received an "A" rating, and 30 received an "F." But district leaders say about half of those F-rated schools had a "B" rating the previous year and claim the state is moving the goal post of what student success is. Here's a look at the scores given to each school in Austin ISD for 2023.",
+"title":
+"How Austin ISD schools score on the A-F scale | kvue.com",
+"date":
+"2 days ago",
+"link":
+"https://www.kvue.com/article/news/education/schools/tea-austin-isd-grades-school-campuses-accountability-ratings/269-992bdc8c-b3b7-4194-8445-27c174946bc2#:~:text=%22C%22%20rating.-,Twenty%2Dfour%20Austin%20ISD%20schools%20received%20an%20%22A%22%20rating,in%20Austin%20ISD%20for%202023.",
+"displayed_link":
+"https://www.kvue.com › news › education › schools › te...",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa69d1b75aac53d14b9c8b654d3d11324382011103b6c67a4b5.png",
+"next_page_token":
+"eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiQXJlIEF1c3RpbiBUZXhhcyBwdWJsaWMgc2Nob29scyBnb29kPyIsImxrIjoiR2lSaGNtVWdZWFZ6ZEdsdUlIUmxlR0Z6SUhCMVlteHBZeUJ6WTJodmIyeHpJR2R2YjJRIiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiQXJlIEF1c3RpbiBUZXhhcyBwdWJsaWMgc2Nob29scyBnb29kPyIsImxrIjoiR2lSaGNtVWdZWFZ6ZEdsdUlIUmxlR0Z6SUhCMVlteHBZeUJ6WTJodmIyeHpJR2R2YjJRIiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9"
+},
+{
+"question":
+"How to know which school district is good?",
+"snippet":
+"Look at GreatSchools.org. Note that a high ranking usually correlates highly with socioeconomic status and income of families, schools with a lower score do not necessarily have worse teachers or worse education standard. But it's a start.",
+"title":
+"How to find out which are good schools in the States? : r/Parenting",
+"date":
+"May 24, 2023",
+"link":
+"https://www.reddit.com/r/Parenting/comments/13qq0b1/how_to_find_out_which_are_good_schools_in_the/",
+"displayed_link":
+"https://www.reddit.com › Parenting › comments › how_t...",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa69d1b75aac53d14b9af1b06bfe5cfb56070f8eb6afc7f17e2.png",
+"next_page_token":
+"eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGtub3cgd2hpY2ggc2Nob29sIGRpc3RyaWN0IGlzIGdvb2Q/IiwibGsiOiJHaWxvYjNjZ2RHOGdhMjV2ZHlCM2FHbGphQ0J6WTJodmIyd2daR2x6ZEhKcFkzUWdhWE1nWjI5dlpBIiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1gzWlZjV3g2VDBWdVJGTkdhMDlzWVdoc2RXcDNVRUYxYUU1Vk9EVkVZbTVXYkhjdE5FUkVTR2c0VGpoNlJIaEpRMEo0UWpGZlFWZFdlSEJyVkRkU2FEbDVRMjVHTVhRNVYzVTVOVFJ4V0hwdldYSTRYeTFNWWkxU1VSSVhia1JaVG1GTlR6SklUalowY0hSUlVITlFURk4xUVRBYUlrRkRSRmhNTkc1alNVczFaRzVpUlVWeWVUbGFiWGhNVkc0MVN6bDFTWGxQVjJjIiwiZmN2IjoiMyIsImVpIjoibkRZTmFNTzJITjZ0cHRRUHNQTFN1QTAiLCJxYyI6IkNoMWpaVzUwY21Gc0lHRjFjM1JwYmlCelkyaHZiMndnY21GMGFXNW5jeEFBZlo3LUJ6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGtub3cgd2hpY2ggc2Nob29sIGRpc3RyaWN0IGlzIGdvb2Q%2FIiwibGsiOiJHaWxvYjNjZ2RHOGdhMjV2ZHlCM2FHbGphQ0J6WTJodmIyd2daR2x6ZEhKcFkzUWdhWE1nWjI5dlpBIiwiYnMiOiJjLU9LNHRJTXowZ3NVY2dzVmlqSlNGVlFObFFvVHM3SXo4OVJTTWtzTGluS1RBYks1Q2s0bGhhWFpPYlpTM3gyTk5LUzBpZ25xRDRScko0cmhrc0wyZXljX1BMVTRoS0Zvc1M4N05RVW1EYWc2cERVaXNSaWU0bjUzRWJhVXBybFJHZ29BV25nQ3VKU2RTeEtoYm9OWW9oQ1FXbFNUbVl5VkdteFFucC1mb3E5eEQ1Wkl6VXBsVVNnV29pN0lQcXhxUVc1MkNPX1hLRWtYeUU3RDBpWFoyUW1aMkI2RUdid1d5dVFpek9JMVNEQUNBQSIsImlkIjoiZmNfbkRZTmFNTzJITjZ0cHRRUHNQTFN1QTBfNCJ9"
+}
+],
+"ai_overview":
+{
+"page_token":
+"kW7sJ3icvZTbkqI4GIBv90XGm-5W8NxdRU0lgBob1OCRvrEQMYIISEDbuZt32afap5kE8dD2dG3t1tamSnL68x8__59_-m6w-euPb-skiehLqXQ4HIokDInvFO1wW7LoMbBLq9Cnsb3-TnwppYW1LzlBIU19Rzo8yABhJCMLzyY_lm0_1VqG77RbP7TWJLVmhv8mw9Gy3RLeZnrhuJcqBZtKQsFxpUAxe5beL3d69SRK8IAOtGEKhEJmUZovLOp4zKF3j5bmJfbZfKsobFOkRSco7hPkktQcT7xNsSyIzWK_ZG2ZAPg3A93tMQAQtz7cq9d197zUZSaHUH4FL-I6E1IhNAGG-INe-aLEBZ3GXjmYH2zyQYB880aunm6YHBpRQG6u4P3LfIGuVj5EBi97LF-juRtypuSVz53q-bB_uuFvFNJ-1a8G-hhWBypQ3E14r4kAMIYdncxNdOPhzT00oPpsW0xZaUlY4YTSImaTWIopL6M8ehbC9qw2H0Rm6ASJ3dOWqt0RNKrU-41ODz9mgNj0Qgi9JaRZUyJP6EzS46aoFaF4wQNhD3F_UO4FALvP9b-O7jlpah6VzmsBuAr96JLT4VoHm1zHgIC2bYWXiCG6yTVfwTEIAeLgqAyPLLNQVs0sp4p5MrkBRM7E8ZhNbydF7PeKFaJwm1w7l63zuuSFHcnAzVYhvhjPFtlHxSzyd9DGrLYHAOzcQYO9RrlrPBcWqz1iZwQMeLCwmUnJXIx5xP9cQ44H5kadEwcwqzU7Vrf3eMg3kH4xyFe5h-B3PIy1uFt_dh0sGkprUYf9mrpv6JUj2p95CLeLf9Ay7P-JGJZ91lCuxEQ3xIRgcCbmU0PJiaGMGNZQ7Lyh_IYY5MqsoXQO5pUYA-TEuPiGmCp7Z-QNJQVuhsGJGF6rvyfm7UIMvBBjylD9ghg5J2YIYKd6JqZ_Ikb9TMx_1VAycJzT9LG7pB65p6o1VsZNY9nqasHzaveMjsMK8srTuBs3wON8tU1eojgkj3N3-QLL3eS4LOwkm7Wk2PIfrJQmbvBA7XUY-g-xxTaEFrZ-HEqCVV_bU7BJgm64UHuL4WwqDmatqhZ5ldn0fTUfjFa1yb6yIWaPjLypNYE20sR3w3X8ATSrO5MEleEqdg0Mpto0GkZis1MNXxvrdfhu1MM0MXfuLKq81YMeGWsiJKMa1o1DYzS2hz6E3Sf0VMHj9ZMXURy0ApFkflFJn5SjXrtMdh47iW1J5kRzSg4Faltzh-5ZeIJdE8RVTagJttioFrYkOUZSVfwFpsxmYg",
+"serpapi_link":
+"https://serpapi.com/search.json?engine=google_ai_overview&page_token=kW7sJ3icvZTbkqI4GIBv90XGm-5W8NxdRU0lgBob1OCRvrEQMYIISEDbuZt32afap5kE8dD2dG3t1tamSnL68x8__59_-m6w-euPb-skiehLqXQ4HIokDInvFO1wW7LoMbBLq9Cnsb3-TnwppYW1LzlBIU19Rzo8yABhJCMLzyY_lm0_1VqG77RbP7TWJLVmhv8mw9Gy3RLeZnrhuJcqBZtKQsFxpUAxe5beL3d69SRK8IAOtGEKhEJmUZovLOp4zKF3j5bmJfbZfKsobFOkRSco7hPkktQcT7xNsSyIzWK_ZG2ZAPg3A93tMQAQtz7cq9d197zUZSaHUH4FL-I6E1IhNAGG-INe-aLEBZ3GXjmYH2zyQYB880aunm6YHBpRQG6u4P3LfIGuVj5EBi97LF-juRtypuSVz53q-bB_uuFvFNJ-1a8G-hhWBypQ3E14r4kAMIYdncxNdOPhzT00oPpsW0xZaUlY4YTSImaTWIopL6M8ehbC9qw2H0Rm6ASJ3dOWqt0RNKrU-41ODz9mgNj0Qgi9JaRZUyJP6EzS46aoFaF4wQNhD3F_UO4FALvP9b-O7jlpah6VzmsBuAr96JLT4VoHm1zHgIC2bYWXiCG6yTVfwTEIAeLgqAyPLLNQVs0sp4p5MrkBRM7E8ZhNbydF7PeKFaJwm1w7l63zuuSFHcnAzVYhvhjPFtlHxSzyd9DGrLYHAOzcQYO9RrlrPBcWqz1iZwQMeLCwmUnJXIx5xP9cQ44H5kadEwcwqzU7Vrf3eMg3kH4xyFe5h-B3PIy1uFt_dh0sGkprUYf9mrpv6JUj2p95CLeLf9Ay7P-JGJZ91lCuxEQ3xIRgcCbmU0PJiaGMGNZQ7Lyh_IYY5MqsoXQO5pUYA-TEuPiGmCp7Z-QNJQVuhsGJGF6rvyfm7UIMvBBjylD9ghg5J2YIYKd6JqZ_Ikb9TMx_1VAycJzT9LG7pB65p6o1VsZNY9nqasHzaveMjsMK8srTuBs3wON8tU1eojgkj3N3-QLL3eS4LOwkm7Wk2PIfrJQmbvBA7XUY-g-xxTaEFrZ-HEqCVV_bU7BJgm64UHuL4WwqDmatqhZ5ldn0fTUfjFa1yb6yIWaPjLypNYE20sR3w3X8ATSrO5MEleEqdg0Mpto0GkZis1MNXxvrdfhu1MM0MXfuLKq81YMeGWsiJKMa1o1DYzS2hz6E3Sf0VMHj9ZMXURy0ApFkflFJn5SjXrtMdh47iW1J5kRzSg4Faltzh-5ZeIJdE8RVTagJttioFrYkOUZSVfwFpsxmYg"
+},
+"organic_results":
+[
+{
+"position":
+1,
+"title":
+"2025 Best School Districts in the Austin Area",
+"link":
+"https://www.niche.com/k12/search/best-school-districts/m/austin-metro-area/",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.niche.com/k12/search/best-school-districts/m/austin-metro-area/&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECCIQAQ",
+"displayed_link":
+"https://www.niche.com › search › austin-metro-area",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b30962445c1e31cb0869334e53109fe3c916.png",
+"snippet":
+"Ranking factors include state test scores, college readiness, graduation rates, teacher quality, public school district ratings, and more.",
+"snippet_highlighted_words":
+[
+"Ranking",
+"scores",
+"school",
+"ratings"
+],
+"source":
+"Niche"
+},
+{
+"position":
+2,
+"title":
+"Austin, TX School Ratings",
+"link":
+"https://www.greatschools.org/texas/austin/",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greatschools.org/texas/austin/&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECCAQAQ",
+"displayed_link":
+"https://www.greatschools.org › texas › austin",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b30933241fda5733d1e47d587353d48136e2.png",
+"snippet":
+"Top Rated Schools in This City ; Elsa England Elementary School. 4.3. (25 Reviews) ; Cedar Creek Elementary School. 4.3. (6 Reviews) ; Eanes Elementary School. 3.9.",
+"snippet_highlighted_words":
+[
+"Top Rated Schools in This City"
+],
+"sitelinks":
+{
+"inline":
+[
+{
+"title":
+"Elementary Schools",
+"link":
+"https://www.greatschools.org/best-elementary-schools/texas/austin/"
+},
+{
+"title":
+"High Schools",
+"link":
+"https://www.greatschools.org/best-high-schools/texas/austin/"
+},
+{
+"title":
+"Austin High School",
+"link":
+"https://www.greatschools.org/texas/austin/522-Austin-High-School/"
+},
+{
+"title":
+"Middle Schools",
+"link":
+"https://www.greatschools.org/best-middle-schools/texas/austin/"
+}
+]
+},
+"source":
+"GreatSchools"
+},
+{
+"position":
+3,
+"title":
+"Best High Schools in Austin, TX Area",
+"link":
+"https://www.usnews.com/education/best-high-schools/texas/rankings/austin-tx-12420",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usnews.com/education/best-high-schools/texas/rankings/austin-tx-12420&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECDIQAQ",
+"displayed_link":
+"https://www.usnews.com › ... › Texas › Texas districts",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b309bfb13a8f52128431ff1ab1a726ae818e.png",
+"snippet":
+"See the best high schools in the Austin, TX metro area based on ranking, graduation rate, college readiness and other key stats. Learn more here.",
+"snippet_highlighted_words":
+[
+"best high schools in the Austin, TX metro area"
+],
+"source":
+"U.S. News & World Report"
+},
+{
+"position":
+4,
+"title":
+"Texas releases ratings for schools, districts. See how your ...",
+"link":
+"https://www.fox7austin.com/news/texas-school-ratings-austin-isd",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fox7austin.com/news/texas-school-ratings-austin-isd&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECEUQAQ",
+"displayed_link":
+"https://www.fox7austin.com › news › texas-school-ratin...",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b309cd34c38fe6c818db1bf8204ca5b3afa5.jpeg",
+"date":
+"2 days ago",
+"snippet":
+"Austin ISD received a C in the newly-released ratings from the TEA. The scores come from the 2022-2023 school year. District leaders talk about ...",
+"snippet_highlighted_words":
+[
+"Austin ISD received a C in the newly-released ratings"
+],
+"source":
+"FOX 7 Austin"
+},
+{
+"position":
+5,
+"title":
+"TEA accountability ratings: Scores for Central Texas school ...",
+"link":
+"https://www.kvue.com/article/news/education/schools/tea-accountability-ratings-central-texas-district-scores/269-201c092c-6de3-48d1-8ea3-9ef32dd23944",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kvue.com/article/news/education/schools/tea-accountability-ratings-central-texas-district-scores/269-201c092c-6de3-48d1-8ea3-9ef32dd23944&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECDQQAQ",
+"displayed_link":
+"https://www.kvue.com › news › education › schools › te...",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b3098f33f96006ceb38e49ee5bec0d87140a.png",
+"date":
+"2 days ago",
+"snippet":
+"The district got a "C" overall, but leaders said that 30 Austin ISD schools now have an "F" rating – half of which had a "B" rating the year ...",
+"snippet_highlighted_words":
+[
+"Austin ISD",
+"rating",
+"rating"
+],
+"source":
+"KVUE"
+},
+{
+"position":
+6,
+"title":
+"Schools Comparison | Austin ISD",
+"link":
+"https://www.austinisd.org/schools/compare/4%205%206%201",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austinisd.org/schools/compare/4%25205%25206%25201&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECDUQAQ",
+"displayed_link":
+"https://www.austinisd.org › schools › compare",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b3092f8074057b555cf19aee6ed6551d8f0e.png",
+"snippet":
+"Anderson. 2022 STAAR Percent at Approaches Grade Level or above. Reading84%. Mathematics79%. Science92%. Social Studies96%. WritingN/A. All Subjects87% ...",
+"snippet_highlighted_words":
+[
+"Reading84"
+],
+"missing":
+[
+"central"
+],
+"must_include":
+{
+"word":
+"central",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=%22central%22+austin+school+ratings&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ5t4CegQIRhAB"
+},
+"source":
+"Austin ISD"
+},
+{
+"position":
+7,
+"title":
+"2025 Best Public Schools in Central East Austin",
+"link":
+"https://www.niche.com/k12/search/best-public-schools/n/central-east-austin-austin-tx/",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.niche.com/k12/search/best-public-schools/n/central-east-austin-austin-tx/&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECDMQAQ",
+"displayed_link":
+"https://www.niche.com › Schools › Best Public",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b309c23b22e0afbe85f51d0058d694edc96f.png",
+"snippet":
+"Liberal Arts & Science Academy · Rating 4.13 out of 5 544 reviews · Students 1,432 ; Chaparral Star Academy · K-12 · Rating 4.18 out of 5 45 ...",
+"snippet_highlighted_words":
+[
+"Liberal Arts & Science Academy · Rating 4.13 out of 5 544 reviews"
+],
+"source":
+"Niche"
+},
+{
+"position":
+8,
+"title":
+"School District Ratings - Austin",
+"link":
+"https://www.stewart.com/en/markets/austin/tools-and-resources/central-tx-accountability-ratings",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stewart.com/en/markets/austin/tools-and-resources/central-tx-accountability-ratings&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECDYQAQ",
+"displayed_link":
+"https://www.stewart.com › austin › tools-and-resources",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b309c4a24e0ac3aadf1deb38edd47f08eb4c.png",
+"snippet":
+"Our summary of the 2019 accountability ratings is designed to help our community quickly find and compare ratings for local area public school districts.",
+"snippet_highlighted_words":
+[
+"ratings",
+"ratings",
+"school"
+],
+"source":
+"Stewart Title"
+},
+{
+"position":
+9,
+"title":
+"TEA accountability ratings: How Austin ISD schools score ...",
+"link":
+"https://www.kvue.com/article/news/education/schools/tea-austin-isd-grades-school-campuses-accountability-ratings/269-992bdc8c-b3b7-4194-8445-27c174946bc2",
+"redirect_link":
+"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kvue.com/article/news/education/schools/tea-austin-isd-grades-school-campuses-accountability-ratings/269-992bdc8c-b3b7-4194-8445-27c174946bc2&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQFnoECDcQAQ",
+"displayed_link":
+"https://www.kvue.com › news › education › schools › te...",
+"favicon":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/8abf9e38f38734f2c0f58a184432b309e7ec9368425e9f5c81278cfbd88b0490.png",
+"date":
+"2 days ago",
+"snippet":
+"Overall, the TEA gave Austin ISD a "C" rating. Twenty-four Austin ISD schools received an "A" rating, and 30 received an "F." But district ...",
+"snippet_highlighted_words":
+[
+"Overall, the TEA gave Austin ISD a "C" rating"
+],
+"source":
+"KVUE"
+}
+],
+"filters":
+[
+{
+"name":
+"Open now",
+"parameters":
+{
+"uds":
+"ABqPDvztZD_Nu18FR6tNPw2cK_RRNOSFgQPMdcJvrtgIu4Xo0koHAFxQ0d-6mOgK2LddJNmwhOuikx9Xpbsn8PvxuvbxMlFkSIzNmjlnwJw9iNzdseLgY8XPyntXPv9LJvWChKl_e0rhgwgA6g67pp9kAJ8ACnJ9MFLGyNjssJyEA_en4CnpeQqaDo1pTAoMKjPRfAUyCem2PRf8PlrxTT9ZYO5-Aq1JaOeLgPqzJsFFzm4X8Rsf5Os",
+"q":
+"central austin school ratings open now"
+},
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=central+austin+school+ratings+open+now&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRNOSFgQPMdcJvrtgIu4Xo0koHAFxQ0d-6mOgK2LddJNmwhOuikx9Xpbsn8PvxuvbxMlFkSIzNmjlnwJw9iNzdseLgY8XPyntXPv9LJvWChKl_e0rhgwgA6g67pp9kAJ8ACnJ9MFLGyNjssJyEA_en4CnpeQqaDo1pTAoMKjPRfAUyCem2PRf8PlrxTT9ZYO5-Aq1JaOeLgPqzJsFFzm4X8Rsf5Os&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQxKsJegQIFxAB&ictx=0",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings+open+now&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRNOSFgQPMdcJvrtgIu4Xo0koHAFxQ0d-6mOgK2LddJNmwhOuikx9Xpbsn8PvxuvbxMlFkSIzNmjlnwJw9iNzdseLgY8XPyntXPv9LJvWChKl_e0rhgwgA6g67pp9kAJ8ACnJ9MFLGyNjssJyEA_en4CnpeQqaDo1pTAoMKjPRfAUyCem2PRf8PlrxTT9ZYO5-Aq1JaOeLgPqzJsFFzm4X8Rsf5Os"
+},
+{
+"name":
+"Top rated",
+"parameters":
+{
+"uds":
+"ABqPDvztZD_Nu18FR6tNPw2cK_RRj6Rf12M6Gawrxdbl5TakBT9qQowc5OCjOIn67SMY7D4M1-ExFzq3YZ4yf2n2OJ4ade1Vb8BK5psHFScdOVrUxGUPfpk0wltk6kS9Wy2tbtu9wudNg6BbaDV__J7lF5JPCMlj-P0E_koTqZs9Cl-mf_Mq0tbBWdB6U4FvYNBWQRf-SZuOKV7dukufOYDhsQN9SiXiRc0c_itl9Q4JNYtA8oEXDUk",
+"q":
+"top rated central austin school ratings"
+},
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=top+rated+central+austin+school+ratings&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRj6Rf12M6Gawrxdbl5TakBT9qQowc5OCjOIn67SMY7D4M1-ExFzq3YZ4yf2n2OJ4ade1Vb8BK5psHFScdOVrUxGUPfpk0wltk6kS9Wy2tbtu9wudNg6BbaDV__J7lF5JPCMlj-P0E_koTqZs9Cl-mf_Mq0tbBWdB6U4FvYNBWQRf-SZuOKV7dukufOYDhsQN9SiXiRc0c_itl9Q4JNYtA8oEXDUk&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQxKsJegQIGBAB&ictx=0",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=top+rated+central+austin+school+ratings&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRj6Rf12M6Gawrxdbl5TakBT9qQowc5OCjOIn67SMY7D4M1-ExFzq3YZ4yf2n2OJ4ade1Vb8BK5psHFScdOVrUxGUPfpk0wltk6kS9Wy2tbtu9wudNg6BbaDV__J7lF5JPCMlj-P0E_koTqZs9Cl-mf_Mq0tbBWdB6U4FvYNBWQRf-SZuOKV7dukufOYDhsQN9SiXiRc0c_itl9Q4JNYtA8oEXDUk"
+}
+],
+"top_stories":
+[
+{
+"title":
+"Texas releases ratings for schools, districts. See how your district scored",
+"link":
+"https://www.fox7austin.com/news/texas-school-ratings-austin-isd",
+"source":
+"FOX 7 Austin",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/1c3e15957210328dc2af44c1502944f44aa57b8fbb7d52326e875cac99bf29a3.png",
+"date":
+"2 days ago",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMefmEPeJpnYBdKfLq2pmSY3hrm5SwHoxX1FStVmYbf8a5hK-3YV9hCbA&usqp=CAI&s"
+},
+{
+"title":
+"TEA gives Austin ISD a 'C' overall | Check out the scores for individual schools",
+"link":
+"https://www.kvue.com/article/news/education/schools/tea-austin-isd-grades-school-campuses-accountability-ratings/269-992bdc8c-b3b7-4194-8445-27c174946bc2",
+"source":
+"KVUE",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/1c3e15957210328d01550bbf50eac206bc49ab7e80435b165d00db7415b1f2b6.png",
+"date":
+"2 days ago",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sE2C5zK-AuSE2oGrkObxL0_ggVpJQDWzuCRCmKFR15BFACTKqHCyiOI&usqp=CAI&s"
+},
+{
+"title":
+"More Austin ISD campuses see failed A-F ratings as TEA releases 2023 scores",
+"link":
+"https://communityimpact.com/austin/south-central-austin/education/2025/04/24/more-austin-isd-campuses-see-failed-a-f-ratings-as-tea-releases-2023-scores/",
+"source":
+"Community Impact | News",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/1c3e15957210328d28e333e4e8a5d6e9e2f1401fbb76c2954a11dc111f0d3a4b.png",
+"date":
+"1 day ago",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJf_Bkb7FhyY-GV4nNe-7Z-b-2CaVZpmrm9c5ysIG5WPx9cu7wmJ5lj4&usqp=CAI&s"
+},
+{
+"title":
+"'I feel alarmed,' TEA ratings reveal stark east-west divide in Austin ISD schools",
+"link":
+"https://cbsaustin.com/news/local/i-feel-alarmed-tea-ratings-reveal-stark-east-west-divide-in-austin-isd-schools",
+"source":
+"KEYE",
+"source_logo":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/1c3e15957210328dfce3b7a07299307169992e6610e7c82e0851c19310cf5675.png",
+"date":
+"17 hours ago",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-vrL44Aa7UWpDt0NR6VzsfFUW2KIUoYjNyI9A1SZxOy84DqrIKyyFsE&usqp=CAI&s"
+}
+],
+"top_stories_link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&tbm=lcl&q=central+austin+school+ratings&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQjGp6BAgvEAE",
+"top_stories_serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+"related_searches":
+[
+{
+"block_position":
+1,
+"items":
+[
+{
+"name":
+"Eanes Independent School Dist...",
+"image":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa607400a4c65c8972fe2c83e683047e19f5cd463457cb8ef9ee5bda624c3b17079.gif",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Eanes+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3MK0qSq74xciwgYXhFQs3F0IMzjMrKDfKg_Ms8spy0xByyWW5ZnBeWmGGhREyL6MIzrM0K0BSmV5ZlFOFUFmWlpS2iFXRNTEvtVjBMy8ltSAVSOSVKAQnZ-Tn5yi4ZBaXFGUml9xik2QI8wv_nDjjMNu7fVVpxQmKXJqzoh8duGe1bhGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAj1N0W-0AAAA&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQs9oBKAB6BAhZEAk",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Eanes+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3MK0qSq74xciwgYXhFQs3F0IMzjMrKDfKg_Ms8spy0xByyWW5ZnBeWmGGhREyL6MIzrM0K0BSmV5ZlFOFUFmWlpS2iFXRNTEvtVjBMy8ltSAVSOSVKAQnZ-Tn5yi4ZBaXFGUml9xik2QI8wv_nDjjMNu7fVVpxQmKXJqzoh8duGe1bhGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAj1N0W-0AAAA"
+},
+{
+"name":
+"Leander Independent School Dist...",
+"image":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa607400a4c65c8972fe2c83e683047e19f8d46220eae1686e69fff67a5b801415f.gif",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Leander+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCsoN8r7xciwgYXhFQs3F1jMtKoouQLOA6uA8yzyynLTEHLJZblmcF5aYYaFETIvowjOszQrQFKZXlmUU4VQWZaWlLaIVdknNTEvJbVIwRNIFqQCibwSheDkjPz8HAWXzOKSoszkkltskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAZTCht-8AAAA&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQs9oBKAB6BAhZEA4",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Leander+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCsoN8r7xciwgYXhFQs3F1jMtKoouQLOA6uA8yzyynLTEHLJZblmcF5aYYaFETIvowjOszQrQFKZXlmUU4VQWZaWlLaIVdknNTEvJbVIwRNIFqQCibwSheDkjPz8HAWXzOKSoszkkltskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAZTCht-8AAAA"
+},
+{
+"name":
+"Austin Independent School Dist...",
+"image":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa607400a4c65c8972fe2c83e683047e19f32e37176846f4ad42ee746cbc95b901d.gif",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Austin+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3sMgry037xciwgYXhFQs3F1jMtKoouQLOMysoN8qD88DqEXLJZblmcF5aYYaFETIvowjOszQrQFKZXlmUU4VQWZaWlLaIVcmxtLgkM0_BMy8ltSAVSOSVKAQnZ-Tn5yi4ZBaXFGUml9xik2QI8wv_nDjjMNu7fVVpxQmKXJqzoh8duGe1bhGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYANzz6yu4AAAA&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQs9oBKAB6BAhZEBM",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Austin+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3sMgry037xciwgYXhFQs3F1jMtKoouQLOMysoN8qD88DqEXLJZblmcF5aYYaFETIvowjOszQrQFKZXlmUU4VQWZaWlLaIVcmxtLgkM0_BMy8ltSAVSOSVKAQnZ-Tn5yi4ZBaXFGUml9xik2QI8wv_nDjjMNu7fVVpxQmKXJqzoh8duGe1bhGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYANzz6yu4AAAA"
+},
+{
+"name":
+"Round Rock Independent School Dist...",
+"image":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa607400a4c65c8972fe2c83e683047e19fd55f5fcfdd6280dcbe6f51940215ceb4.gif",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Round+Rock+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3MEsuyzX7xciwgYXhFQs3F1jMtKoouQLOMysoN8qD8yzyynLTEHIg3XBeWmGGhREyL6MIzrM0K0BSmV5ZlFOFUFmWlpS2iFUtKL80L0UhKD85W8EzLyW1IBVI5JUoBCdn5OfnKLhkFpcUZSaX3GKTZAjzC_-cOOMw27t9VWnFCYpcmrOiHx24Z7VuEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgAGkjyy8gAAAA&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQs9oBKAB6BAhZEBg",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Round+Rock+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3MEsuyzX7xciwgYXhFQs3F1jMtKoouQLOMysoN8qD8yzyynLTEHIg3XBeWmGGhREyL6MIzrM0K0BSmV5ZlFOFUFmWlpS2iFUtKL80L0UhKD85W8EzLyW1IBVI5JUoBCdn5OfnKLhkFpcUZSaX3GKTZAjzC_-cOOMw27t9VWnFCYpcmrOiHx24Z7VuEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgAGkjyy8gAAAA"
+},
+{
+"name":
+"Lake Travis Independent School Dist...",
+"image":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa607400a4c65c8972fe2c83e683047e19fa888cd88d5bcc24489f83ccb752eff84.gif",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Lake+Travis+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3SCvMsDD6xciwgYXhFQs3F1jMtKoouQLOMysoN8qD8yzyynLTEHLJZblmcB7YLGReRhGcZ2lWgKQyvbIopwqhsiwtKW0Rq7pPYnaqQkhRYllmsYJnXkpqQSqQyCtRCE7OyM_PUXDJLC4pykwuucUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjAB-O4X88wAAAA&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQs9oBKAB6BAhZEB0",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Lake+Travis+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3SCvMsDD6xciwgYXhFQs3F1jMtKoouQLOMysoN8qD8yzyynLTEHLJZblmcB7YLGReRhGcZ2lWgKQyvbIopwqhsiwtKW0Rq7pPYnaqQkhRYllmsYJnXkpqQSqQyCtRCE7OyM_PUXDJLC4pykwuucUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjAB-O4X88wAAAA"
+},
+{
+"name":
+"Del Valle Independent School Dist...",
+"image":
+"https://serpapi.com/searches/680d369b2ea5121b5e5e6ce9/images/ae702ae122e9daa607400a4c65c8972fe2c83e683047e19f032c73e6c03f44300c3ee0138c5774d6.gif",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Del+Valle+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3SCvMyCj6xciwgYXhFQs3F1jMtKoouQLOMysoN8qD8yzyynLTEHLJZblmcB7QLAsjZF5GEZxnaVaApDK9siinCqGyLC0pbRGrqktqjkJYYk5OqoJnXkpqQSqQyCtRCE7OyM_PUXDJLC4pykwuucUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8AqABiTnF-QrFqYlFyRkKaflFKzgYARcUPEnxAAAA&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQs9oBKAB6BAhZECI",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Del+Valle+Independent+School+District&stick=H4sIAAAAAAAAAOMwVOLUz9U3SCvMyCj6xciwgYXhFQs3F1jMtKoouQLOMysoN8qD8yzyynLTEHLJZblmcB7QLAsjZF5GEZxnaVaApDK9siinCqGyLC0pbRGrqktqjkJYYk5OqoJnXkpqQSqQyCtRCE7OyM_PUXDJLC4pykwuucUmyRDmF_45ccZhtnf7qtKKExS5NGdFPzpwz2rdIg6xgNT8AqABiTnF-QrFqYlFyRkKaflFKzgYARcUPEnxAAAA"
+}
+]
+},
+{
+"block_position":
+1,
+"query":
+"best elementary schools in austin, texas",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=best+elementary+schools+in+austin,+texas&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhqEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+elementary+schools+in+austin%2C+texas"
+},
+{
+"block_position":
+1,
+"query":
+"Best school districts in Austin",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Best+school+districts+in+Austin&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhnEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+school+districts+in+Austin"
+},
+{
+"block_position":
+1,
+"query":
+"Austin School districts map",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Austin+School+districts+map&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhmEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Austin+School+districts+map"
+},
+{
+"block_position":
+1,
+"query":
+"Best high schools in Austin",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Best+high+schools+in+Austin&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhrEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+high+schools+in+Austin"
+},
+{
+"block_position":
+1,
+"query":
+"best public schools in austin, tx",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=best+public+schools+in+austin,+tx&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhpEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+public+schools+in+austin%2C+tx"
+},
+{
+"block_position":
+1,
+"query":
+"Best schools in Austin",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Best+schools+in+Austin&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhlEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+schools+in+Austin"
+},
+{
+"block_position":
+1,
+"query":
+"public high schools in austin, texas",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=public+high+schools+in+austin,+texas&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhkEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=public+high+schools+in+austin%2C+texas"
+},
+{
+"block_position":
+1,
+"query":
+"Austin best school districts zip code",
+"link":
+"https://www.google.com/search?sca_esv=ce0c501f5050c174&gl=us&hl=en&q=Austin+best+school+districts+zip+code&sa=X&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ1QJ6BAhoEAE",
+"serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Austin+best+school+districts+zip+code"
+}
+],
+"pagination":
+{
+"current":
+1,
+"next":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=10&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8NMDegQIDRAW",
+"other_pages":
+{
+"2":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=10&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAE",
+"3":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=20&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAG",
+"4":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=30&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAI",
+"5":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=40&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAK",
+"6":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=50&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAM",
+"7":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=60&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAO",
+"8":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=70&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAQ",
+"9":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=80&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAS",
+"10":
+"https://www.google.com/search?q=central+austin+school+ratings&sca_esv=ce0c501f5050c174&gl=us&hl=en&ei=nDYNaMO2HN6tptQPsPLSuA0&start=90&sa=N&sstk=Af40H4XBdUuAYzzIEtLKH1myJKnZqo9LUpmZesgUbIriATRwyGBD8d48CcXou3QnhxcXz8jF2ruvj9fr39o4E-k655xa_k43-AuoKg&ved=2ahUKEwjD9LP0ufaMAxXelokEHTC5FNcQ8tMDegQIDRAU"
+}
+},
+"serpapi_pagination":
+{
+"current":
+1,
+"next_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=10",
+"next":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=10",
+"other_pages":
+{
+"2":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=10",
+"3":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=20",
+"4":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=30",
+"5":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=40",
+"6":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=50",
+"7":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=60",
+"8":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=70",
+"9":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=80",
+"10":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=central+austin+school+ratings&start=90"
+}
+}
+}
