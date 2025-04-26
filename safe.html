@@ -1,0 +1,30 @@
+<!-- safe.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safe Areas</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <script>
+        function initMapSafe() {
+            const map = new google.maps.Map(document.getElementById("map-safe"), {
+                center: { lat: 30.2672, lng: -97.7431 }, // Central Austin coordinates
+                zoom: 13,
+            });
+            // Example marker for a safe area
+            new google.maps.Marker({
+                position: { lat: 30.2800, lng: -97.7400 }, // Example safe area
+                map,
+                title: "Safe Area",
+                icon: "http://maps.google.com/mapfiles/ms/icons/green-dot.png",
+            });
+        }
+    </script>
+</head>
+<body onload="initMapSafe()">
+    <h1>Safe Areas</h1>
+    <div id="map-safe" style="height: 500px; width: 100%;"></div>
+    <a href="index.html">Go to Safe and Unsafe Areas Map</a>
+</body>
+</html>
